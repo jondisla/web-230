@@ -1,4 +1,4 @@
 # web-230
 
-Prof. Solano
-Jonathan Disla
+## Prof. Soriano
+## Jonathan Disla

@@ -1,4 +1,5 @@
 # web-230
-
-## Prof. Soriano
-## Jonathan Disla
+Javascript II
+# Contributors
+- Professor Krasso - Bellevue University
+- Jonathan Disla - Bellevue University
